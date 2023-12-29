@@ -137,5 +137,9 @@ def main():
         
         # time.sleep(1)
 
+    print ("*** Finished ! ***")
+    print ()
+    print ("You can now close this window...")
+
 if __name__ == "__main__":
     main()
