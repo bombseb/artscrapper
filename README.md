@@ -2,9 +2,9 @@
 
 ## Description
 
-This program automatically downloads an artwork and turns it into an icon for an artist's directory containing albums and audiofiles.
+This program automatically downloads artworks and turns them into icons for artist's directories containing albums and audiofiles.
 
-For the moment, the supported file manager is Dolphin. The image is searched on fanart.tv. If the search is unsuccessful, a second search is performed on Deezer. The image is then downloaded and saved in the artist's directory. A .directory file is then created. This file is specific to Dolphin and is used to define the downloaded image as the directory icon.
+For the moment, the supported file manager is Dolphin. For each selected directories The image is searched on fanart.tv. If the search is unsuccessful, a second search is performed on Deezer. The image is then downloaded and saved in the artist's directory. A **.directory** file is then created. This file is specific to Dolphin and is used to define the downloaded image as the directory icon.
 
 ## Installation
 
