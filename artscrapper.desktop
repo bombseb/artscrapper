@@ -11,6 +11,6 @@ Actions=lol
 [Desktop Action lol]
 Name=Télécharger artwork
 Icon=x-content-image-picturecd
-Exec=konsole --hold -e /home/seb/dev/mp3/artscrap/main.py %F
+Exec=konsole --hold -e artscrapper.py %F
 
 
