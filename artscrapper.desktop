@@ -1,0 +1,16 @@
+
+# Déplacer ce fichier dans ~/.local/share/kio/servicemenus/
+
+
+
+[Desktop Entry]
+Type=Service
+MimeType=inode/directory;
+Actions=lol
+
+[Desktop Action lol]
+Name=Télécharger artwork
+Icon=x-content-image-picturecd
+Exec=konsole --hold -e /home/seb/dev/mp3/artscrap/main.py %F
+
+
